@@ -24,7 +24,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 
 ## 📈 Progress
 
-- Problems Solved: 4    
+- Problems Solved: 14    
 - Language: JavaScript
 
 ## 🎯 Goals
