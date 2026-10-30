@@ -16,13 +16,13 @@
 var search = function(nums, target) {
     let l=0
     let r=nums.length-1
-    while(l<=r){
+    while(l<=r){ 
         let m=Math.floor((l+r)/2)
         if(nums[m] === target){
             return m
         }
         //left side sorted 
-        if(nums[l]<nums[m] ){
+        if(nums[l]<=nums[m] ){ //equal to imp.
         if(target >= nums[l] && target<nums[m]){
                      r=m-1
         }else{

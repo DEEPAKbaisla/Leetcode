@@ -1,3 +1,8 @@
+/** --> 707. Design Linked List
+ * 
+ *  
+ */
+
 function Node(x){
     this.value=x
     this.next=null
