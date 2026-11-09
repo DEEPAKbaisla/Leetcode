@@ -25,7 +25,7 @@ This repository contains my solutions to LeetCode problems, written primarily in
 ## 📈 Progress
 
 > Note: I may occasionally forget to update this count. Please visit my [LeetCode profile](https://leetcode.com/u/DEEPAKbaisla16) for the latest progress.
-- Problems Solved: 30    
+- Problems Solved: 34    
 - Language: JavaScript
 
 ## 🎯 Goals
